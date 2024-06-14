@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JenLeche
-- 👀 I’m interested in ... learning how to make a website to help older people access resources available to them
+- 👋 Hi, I’m @JenLeche and super LOST! 
+- 👀 I’m interested in ... learning how to make a website ( i have html but can't figure out how to view it!) and want to help older people access resources available to them
 - 🌱 I’m currently learning ... that I am way out of date when it comes to learning new skills
 - 💞️ I’m looking to collaborate on ... this html which i have uploaded 
 - 📫 How to reach me ... google me. i am easy to find. 
